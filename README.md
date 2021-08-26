@@ -1,7 +1,7 @@
 
 
 
-## Oiii! Eu sou a Bruna Leardini.
+## Hello Word, eu sou a Bruna Leardini! .
  <div>
   <a href="https://github.com/bleardini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bleardini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
